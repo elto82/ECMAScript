@@ -1,0 +1,5 @@
+
+let hello = 'hello';
+let word = 'word';
+
+console.log(`${hello} ${word}`);

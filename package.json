@@ -1,0 +1,19 @@
+{
+  "name": "ecmascript",
+  "version": "1.0.0",
+  "description": "curso",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elto82/ECMAScript.git"
+  },
+  "author": "oscar barajas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/elto82/ECMAScript/issues"
+  },
+  "homepage": "https://github.com/elto82/ECMAScript#readme"
+}
