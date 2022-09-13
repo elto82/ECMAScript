@@ -23,9 +23,9 @@ console.log(data);
 
 function sum (num, ...values) {
   console.log(values);
-  console.log(num + values[2]);
-  return num + values[2]
- 
+  console.log(num + values[0]);
+  return num * values[0]
+  return num + values
 }
 
 sum(2, 2, 3, 4);
