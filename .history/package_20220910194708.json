@@ -12,7 +12,6 @@
   },
   "author": "oscar barajas",
   "license": "MIT",
-  "type": "module",
   "bugs": {
     "url": "https://github.com/elto82/ECMAScript/issues"
   },
