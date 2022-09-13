@@ -11,9 +11,4 @@ newUser('Argiro', 41, 'Mexico')
 
 //ahora
 
-function newAdmin (name = 'Juan', age = 30, country = 'cl') {
-  console.log(name, age, country);
-}
-
-newAdmin()
-newAdmin('Lucia', 25, 'CO')
+ 
