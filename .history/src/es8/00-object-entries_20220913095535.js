@@ -1,0 +1,1 @@
+const countries = {MX: 'Mexico', CO: 'Colombia'}
