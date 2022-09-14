@@ -1,0 +1,1 @@
+const regex = /\b(Apple)+\b/g;
