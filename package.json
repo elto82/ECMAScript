@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/elto82/ECMAScript/issues"
   },
-  "homepage": "https://github.com/elto82/ECMAScript#readme"
+  "homepage": "https://github.com/elto82/ECMAScript#readme",
+  "dependencies": {
+    "node-fetch": "^3.2.10"
+  }
 }
